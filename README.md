@@ -1,4 +1,4 @@
-# Instrall web3.py development via Docker
+# Install web3.py development via Docker
 
 ```
 $ git clone https://github.com/changwu-tw/nccu-eth
